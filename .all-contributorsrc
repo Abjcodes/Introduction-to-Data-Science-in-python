@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Abjcodes",
+      "name": "Abijith Vasanthakumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/42151354?v=4",
+      "profile": "https://abjcodes.github.io/portfolio/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Introduction-to-Data-Science-in-python",
+  "projectOwner": "Abjcodes",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
